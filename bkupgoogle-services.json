@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "503558641856",
+    "project_id": "minibazar-5cd39",
+    "storage_bucket": "minibazar-5cd39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503558641856:android:1ebc83b376b659c8803525",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503558641856-hjerlndna54tubs3a4o3bl1mlvukl7ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialapp",
+            "certificate_hash": "f8839a4ebe9e6f2364ced4b2472525ae4e82847b"
+          }
+        },
+        {
+          "client_id": "503558641856-b8mhvjlfb89q81fqs3fgodilm72s54ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjUgIuSe2U7gFdDOXVWDtzdSO0nN4nXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503558641856-b8mhvjlfb89q81fqs3fgodilm72s54ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
