@@ -142,7 +142,7 @@ const HomeScreen = ({navigation}) => {
         setLoading(false);
       }
 
-      console.log('Posts: ', posts);
+      // console.log('Posts: ', posts);
     } catch (e) {
       console.log(e);
     }
@@ -281,7 +281,7 @@ const searchFilterFunction = (text) => {
           searchIcon={{ size: 24 }}
           onChangeText={(text) => searchFilterFunction(text)}
           onClear={(text) => searchFilterFunction('')}
-          placeholder="Search Your Item...a"
+          placeholder="Search Your Item..."
           value={search}
           inputStyle={{backgroundColor: 'white'}}
           containerStyle={{backgroundColor: '#2D4464', borderWidth: 1, borderRadius: 5}}

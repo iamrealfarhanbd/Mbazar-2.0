@@ -8,6 +8,7 @@ import {
   ScrollView,
   SafeAreaView,
   FlatList,
+  Alert,
 } from 'react-native';
 import FormButton from '../components/FormButton';
 import {AuthContext} from '../navigation/AuthProvider';
@@ -200,12 +201,12 @@ const ProfileScreen = ({navigation, route}) => {
         <View style={styles.userBtnWrapper}>
           {route.params ? (
             <>
-              <TouchableOpacity style={styles.userBtn} onPress={() => {}}>
+              <TouchableOpacity style={styles.userBtn} onPress={() => {Alert.alert("Soon You will Chat with User")}}>
                 <Text style={styles.userBtnTxt}>Message</Text>
               </TouchableOpacity>
-              <TouchableOpacity style={styles.userBtn} onPress={() => {}}>
+              {/* <TouchableOpacity style={styles.userBtn} onPress={() => {}}>
                 <Text style={styles.userBtnTxt}>Follow</Text>
-              </TouchableOpacity>
+              </TouchableOpacity> */}
             </>
           ) : (
             <>
