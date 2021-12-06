@@ -1,4 +1,5 @@
-# React Native Firebase Mbazar App
+# React Native With Firebase 
+# Mbazar App
 
 This repository is based on a react native E-Commerce app with Firebase.
 
