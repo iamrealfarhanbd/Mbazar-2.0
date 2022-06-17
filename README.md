@@ -4,7 +4,7 @@
 This repository is based on a react native E-Commerce app with Firebase.
 😎**My App Mbazar APK FIle**😎
 
-https://raw.githubusercontent.com/user/repository/branch/Mbazar.apk
+https://raw.githubusercontent.com/iamrealfarhanbd/Mbazar-2.0/main/Mbazar.apk
 
 😎**Intro Of My App Mbazar**😎
 
